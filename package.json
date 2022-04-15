@@ -1,0 +1,36 @@
+{
+  "name": "connectfirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.6",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "docxtemplater": "^3.29.0",
+    "excel4node": "^1.7.2",
+    "exceljs": "^4.3.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "ftp": "^0.3.10",
+    "googleapis": "^92.0.0",
+    "heroku": "^7.59.2",
+    "mssql": "^8.0.1",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "node-docto": "^0.3.2",
+    "node-schedule": "^2.1.0",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "pizzip": "^3.1.1",
+    "salted-md5": "^4.0.2",
+    "tedious": "^14.2.0"
+  }
+}
